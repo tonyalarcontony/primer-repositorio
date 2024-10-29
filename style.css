@@ -1,0 +1,20 @@
+p {
+    color: aquamarine;
+}
+
+.textoclass {
+    color: black;
+}
+
+#textoid {
+    color: violet;
+}
+
+#body {
+    background-color: antiquewhite;
+}
+
+#titulo {
+    text-align: center;
+    color: chocolate;
+}
