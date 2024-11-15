@@ -1,0 +1,1 @@
+Esta pagina simula un comprador virtual de perfumes.

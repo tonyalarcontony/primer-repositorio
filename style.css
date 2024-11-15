@@ -1,20 +1,89 @@
-p {
-    color: aquamarine;
+.comforta {
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
 }
 
-.textoclass {
-    color: black;
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #fae6ca;
+    color: white;
+    flex-direction: row;
+    align-items: center
 }
 
-#textoid {
-    color: violet;
+.nav {
+    display: flex;
+    list-style-type: none;
 }
 
-#body {
-    background-color: antiquewhite;
+.body {
+    background-color: #8E57A1;
 }
 
-#titulo {
+.h1 {
+    font-family: "Comfortaa", sans-serif;
+    color: #8E57A1;
+}
+
+.h3 {
+    font-family: "Comfortaa", sans-serif;
+    color: #fae6ca;
     text-align: center;
-    color: chocolate;
+}
+
+.h3form {
+    color: #fae6ca;
+    text-align: center;
+}
+
+.Productos {
+    width: 300px;
+    height: 300px;
+    margin: 15px;
+    border: 4px solid #FAE6CA;
+    border-radius: 4px;
+
+}
+
+.conteiner {
+    display: flex;
+    justify-content: center;
+
+}
+
+.form_conteiner {
+    display: flex;
+    justify-content: center;
+    max-width: 700px;
+    max-height: 700px;
+    background-color: #FAE6CA;
+    border-radius: 4px;
+    padding: 25px;
+    margin: 100px 200px 100px 600px;
+}
+
+.button {
+    font-family: "Comfortaa", sans-serif, ;
+    color: #FAE6CA;
+    margin-left: 80px;
+    margin-top: 1px;
+    background-color: #8E57A1;
+    text-align: center;
+
+    border: 2px solid #FAE6CA;
+    cursor: pointer;
+}
+
+.mapa {
+    display: flex;
+    justify-content: center;
+    max-width: 700px;
+    max-height: 700px;
+    background-color: #FAE6CA;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 100px 200px 100px 600px;
 }
