@@ -90,6 +90,8 @@
 
 .userinfo {
     display: grid;
+    grid-template-columns: 33, 33% 33, 33% 33, 33% 33, ;
+
     max-width: 700px;
     max-height: 700px;
     background-color: #FAE6CA;
